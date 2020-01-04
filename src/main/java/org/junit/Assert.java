@@ -6,6 +6,10 @@ import org.junit.function.ThrowingRunnable;
 import org.junit.internal.ArrayComparisonFailure;
 import org.junit.internal.ExactComparisonCriteria;
 import org.junit.internal.InexactComparisonCriteria;
+/*
+ * 
+ *  assertGreaterThan(T o1, T o2, java.util.Comparator<T> comparator)
+ */
 
 /**
  * A set of assertion methods useful for writing tests. Only failed assertions
