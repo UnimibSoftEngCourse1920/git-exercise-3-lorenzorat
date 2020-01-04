@@ -23,7 +23,11 @@ import org.junit.Test;
 import org.junit.function.ThrowingRunnable;
 import org.junit.internal.ArrayComparisonFailure;
 /*
+<<<<<<< HEAD
  * creazione test per  assertGreaterThan(T o1, T o2, java.util.Comparator<T> comparator)
+=======
+ * test metodo confronto tipi primitivi
+>>>>>>> refs/heads/greater-primitives
  */
 /**
  * Tests for {@link org.junit.Assert}

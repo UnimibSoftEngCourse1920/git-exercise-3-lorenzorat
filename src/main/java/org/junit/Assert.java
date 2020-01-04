@@ -7,10 +7,15 @@ import org.junit.internal.ArrayComparisonFailure;
 import org.junit.internal.ExactComparisonCriteria;
 import org.junit.internal.InexactComparisonCriteria;
 /*
+<<<<<<< HEAD
  * 
  *  assertGreaterThan(T o1, T o2, java.util.Comparator<T> comparator)
  */
 
+=======
+ *  creazione metodo confronto tipi primitivi
+ */
+>>>>>>> refs/heads/greater-primitives
 /**
  * A set of assertion methods useful for writing tests. Only failed assertions
  * are recorded. These methods can be used directly:
